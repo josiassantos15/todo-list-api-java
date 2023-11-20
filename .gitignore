@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignorar diretório mvnw e mvnw.cmd
+/mvnw
+/mvnw.cmd
+
+# Ignorar diretório do Maven Wrapper
+/.mvn/wrapper/
